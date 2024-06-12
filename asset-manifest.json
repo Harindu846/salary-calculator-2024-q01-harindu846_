@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/salary-calculator-2024-q01-harindu846_/static/css/main.ff267964.css",
+    "main.js": "/salary-calculator-2024-q01-harindu846_/static/js/main.7b30f57b.js",
+    "static/js/453.84bb662e.chunk.js": "/salary-calculator-2024-q01-harindu846_/static/js/453.84bb662e.chunk.js",
+    "index.html": "/salary-calculator-2024-q01-harindu846_/index.html",
+    "main.ff267964.css.map": "/salary-calculator-2024-q01-harindu846_/static/css/main.ff267964.css.map",
+    "main.7b30f57b.js.map": "/salary-calculator-2024-q01-harindu846_/static/js/main.7b30f57b.js.map",
+    "453.84bb662e.chunk.js.map": "/salary-calculator-2024-q01-harindu846_/static/js/453.84bb662e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff267964.css",
+    "static/js/main.7b30f57b.js"
+  ]
+}
